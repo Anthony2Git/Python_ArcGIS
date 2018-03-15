@@ -3,7 +3,7 @@
 # Purpose: Extract variable from netcdf files 
 #          and create raster files
 # ------------------------------------------#
-#
+# 
 #Import system modules  
 import arcpy  
 from arcpy import env  
